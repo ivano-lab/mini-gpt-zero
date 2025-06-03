@@ -2,6 +2,8 @@ import torch
 import numpy as np
 from pathlib import Path
 from tqdm import tqdm
+from model.transformer import MiniGPT, config
+
 
 # Caminho do corpus
 DATA_PATH = Path("data/corpus.txt")
@@ -55,3 +57,13 @@ if __name__ == "__main__":
     print("Como texto:")
     for i in range(batch_size):
         print(decode(x_batch[i].tolist()), "->", decode(y_batch[i].tolist()))
+
+    model = MiniGPT().to(device)  # importante enviar o modelo para o dispositivo correto (CPU ou GPU)
+
+    # Rodar o modelo com um forward pass usando o mesmo batch já obtido
+    logits, loss = model(x_batch, y_batch)
+
+    print("Forma do input (x):", x_batch.shape)
+    print("Forma do target (y):", y_batch.shape)
+    print("Forma dos logits:", logits.shape)
+    print("Loss inicial:", loss.item())
