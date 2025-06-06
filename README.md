@@ -64,7 +64,7 @@ Todas as etapas estão organizadas em milestones com issues abertas para facilit
 
 Você pode acompanhar o progresso em:
 
-[Issues[(https://github.com/ivano-lab/mini-gpt-zero/issues) | [Milestones](https://github.com/ivano-lab/mini-gpt-zero/milestones) 
+[Issues](https://github.com/ivano-lab/mini-gpt-zero/issues) | [Milestones](https://github.com/ivano-lab/mini-gpt-zero/milestones) 
 
 
 ## Contribuições
