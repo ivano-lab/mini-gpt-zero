@@ -58,13 +58,21 @@ Este projeto está sendo desenvolvido como parte de um artigo científico que vi
 
 ## Artigo Científico
 
-O artigo associado a este projeto está em desenvolvimento e será disponibilizado em breve. Ele abordará:
+O artigo associado a este projeto está em desenvolvimento e será anexado futuramente neste repositório como arquivo .pdf com o passo a passo completo do projeto e análise crítica dos resultados.
 
-* A motivação para a criação de um modelo de linguagem simplificado.
-* As decisões técnicas tomadas durante o desenvolvimento.
-* Análises dos resultados obtidos.
-* Reflexões sobre o processo de aprendizagem envolvido.
+Todas as etapas estão organizadas em milestones com issues abertas para facilitar a reprodutibilidade e estruturação do artigo científico.
+
+Você pode acompanhar o progresso em:
+ [Issues[(https://github.com/ivano-lab/mini-gpt-zero/issues) | [Milestones](https://github.com/ivano-lab/mini-gpt-zero/milestones) 
+
 
 ## Contribuições
 
 Sinta-se à vontade para abrir issues ou pull requests com sugestões de melhorias, correções ou novas funcionalidades.
+
+## Autor
+
+**Ívano Fontes**
+Acadêmico de **<a href="https://sites.uft.edu.br/uab/index.php/graduacao/301-licenciatura-em-computacao" target="_blank"> Licenciatura em Computação - UFT</a>** 
+Contato: <a href="https://www.linkedin.com/in/sarah-de-paula-4232a7259/" target="_blank">Sarah de Paula</a>** e **<a href="https://www.linkedin.com/in/%C3%ADvano-fontes/" target="_blank">LinkedIn</a>
+
