@@ -74,5 +74,6 @@ Sinta-se à vontade para abrir issues ou pull requests com sugestões de melhori
 
 **Ívano Fontes**
 Acadêmico de **<a href="https://sites.uft.edu.br/uab/index.php/graduacao/301-licenciatura-em-computacao" target="_blank"> Licenciatura em Computação - UFT</a>** 
+
 Contato: <a href="https://www.linkedin.com/in/sarah-de-paula-4232a7259/" target="_blank">Sarah de Paula</a>** e **<a href="https://www.linkedin.com/in/%C3%ADvano-fontes/" target="_blank">LinkedIn</a>
 
