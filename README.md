@@ -63,7 +63,8 @@ O artigo associado a este projeto está em desenvolvimento e será anexado futur
 Todas as etapas estão organizadas em milestones com issues abertas para facilitar a reprodutibilidade e estruturação do artigo científico.
 
 Você pode acompanhar o progresso em:
- [Issues[(https://github.com/ivano-lab/mini-gpt-zero/issues) | [Milestones](https://github.com/ivano-lab/mini-gpt-zero/milestones) 
+
+[Issues[(https://github.com/ivano-lab/mini-gpt-zero/issues) | [Milestones](https://github.com/ivano-lab/mini-gpt-zero/milestones) 
 
 
 ## Contribuições
@@ -73,7 +74,13 @@ Sinta-se à vontade para abrir issues ou pull requests com sugestões de melhori
 ## Autor
 
 **Ívano Fontes**
+
 Acadêmico de <a href="https://sites.uft.edu.br/uab/index.php/graduacao/301-licenciatura-em-computacao" target="_blank"> Licenciatura em Computação - UFT</a> 
 
 Contato: <a href="https://www.linkedin.com/in/%C3%ADvano-fontes/" target="_blank">LinkedIn</a>
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License]()
+
 
