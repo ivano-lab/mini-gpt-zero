@@ -81,6 +81,6 @@ Contato: <a href="https://www.linkedin.com/in/%C3%ADvano-fontes/" target="_blank
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License]()
+Este projeto está licenciado sob a [MIT License](https://github.com/ivano-lab/mini-gpt-zero/blob/main/LICENSE)
 
 
